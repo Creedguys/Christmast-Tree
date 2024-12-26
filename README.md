@@ -1,4 +1,3 @@
-```markdown
 # 🎄 Christmas-Tree
 
 A simple and festive project to create a digital Christmas tree using HTML, CSS, and JavaScript. Perfect for adding a holiday touch to your website or learning how to create interactive elements on a webpage.
@@ -20,4 +19,3 @@ A simple and festive project to create a digital Christmas tree using HTML, CSS,
 - **JavaScript**: For interactivity and functionality.
 
 Happy Holidays! 🎅🎄
-```
